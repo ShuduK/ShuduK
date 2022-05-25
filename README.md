@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shudu Kay
-- 👀 I’m interested in learning more about about in software development. 
+- 👀 I’m interested in learning more about software development. 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on web development projects, and some data analytics in Python, later.
+- 💞️ I’m looking to collaborate on web development projects now, and some data analytics in Python, later.
 - 📫 How to reach me ... khorombisj@gmail.com
 
 <!---
